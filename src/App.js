@@ -33,7 +33,7 @@ function App() {
               Flirtwedwoje
             </a>
             <a className="a2" style={{ fontSize: "15px", fontWeight: "300" }}>
-              <span style={{ color: "black", fontSize: "20px" }}>ads1</span>
+              <span style={{ color: "black", fontSize: "20px" }}>POLECANE</span>
               <br />
             </a>
           </div>
@@ -41,10 +41,10 @@ function App() {
         <a href="https://redirecting3.eu/p/C4kJ/GmZ7/5SsT" target="_blank">
           <div className="div">
             <a className="a1" style={{ fontSize: "25px", fontWeight: "300" }}>
-              Najlepszy program do poznania sympatii DZIAL
+              Najlepszy program do poznania sympatii TYLKO TUTAJ!!
             </a>
             <a className="a2" style={{ fontSize: "15px", fontWeight: "300" }}>
-              <span style={{ color: "black", fontSize: "20px" }}>Tytuł</span>
+              <span style={{ color: "black", fontSize: "20px" }}>POLECANE</span>
               <br /> Mama z sąsiedztwa czeka abyś u niej zagościł gdy męża nie
               ma w domu!
             </a>
@@ -56,7 +56,7 @@ function App() {
               PROGRAM PO PROSTU FLIRT
             </a>
             <a className="a2" style={{ fontSize: "15px", fontWeight: "300" }}>
-              <span style={{ color: "black", fontSize: "20px" }}>ads12</span>
+              <span style={{ color: "black", fontSize: "20px" }}>POLECANE</span>
               <br /> Umów się na herbatę albo od razu zerżnij napaloną siostrę
               przyrodnią w wannie!
             </a>
@@ -68,7 +68,7 @@ function App() {
               COUNT EMPIRE GAME
             </a>
             <a className="a2" style={{ fontSize: "15px", fontWeight: "300" }}>
-              <span style={{ color: "black", fontSize: "20px" }}>Tytuł</span>
+              <span style={{ color: "black", fontSize: "20px" }}>POLECANE</span>
               <br /> Znajdź napaloną mamuśkę w okolicy i wypieprz ją teraz!!!
             </a>
           </div>
@@ -79,7 +79,7 @@ function App() {
               Program DATEST
             </a>
             <a className="a2" style={{ fontSize: "15px", fontWeight: "300" }}>
-              <span style={{ color: "black", fontSize: "20px" }}>Tytuł</span>
+              <span style={{ color: "black", fontSize: "20px" }}>POLECANE</span>
               <br /> Zerżnij albo daj się zerżnąć!
             </a>
           </div>
@@ -90,7 +90,7 @@ function App() {
               Najbardziej polecany program!
             </a>
             <a className="a2" style={{ fontSize: "15px", fontWeight: "300" }}>
-              <span style={{ color: "black", fontSize: "20px" }}>Tytuł</span>
+              <span style={{ color: "black", fontSize: "20px" }}>POLECANE</span>
               <br /> Niech to, że przychodzisz do mnie gdy on wychodzi zostanie
               naszą słodką tajemnicą!
             </a>
@@ -102,7 +102,7 @@ function App() {
               Program DATES DZIAL
             </a>
             <a className="a2" style={{ fontSize: "15px", fontWeight: "300" }}>
-              <span style={{ color: "black", fontSize: "20px" }}>Tytuł</span>
+              <span style={{ color: "black", fontSize: "20px" }}>POLECANE</span>
               <br /> Niech to, że przychodzisz do mnie gdy on wychodzi zostanie
               naszą słodką tajemnicą!
             </a>
