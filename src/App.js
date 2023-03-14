@@ -27,14 +27,15 @@ function App() {
         <div
           style={{ background: "black", width: "100%", height: "1px" }}
         ></div>
-        <a href="https://redirecting3.eu/p/C4kJ/OKWX/UNG0" target="_blank">
+        <a href="https://redirecting5.eu/p/C4kJ/2ecm/jy77" target="_blank">
           <div className="div">
             <a className="a1" style={{ fontSize: "25px", fontWeight: "300" }}>
-              Flirtwedwoje
+              CYBER FFFFF
             </a>
             <a className="a2" style={{ fontSize: "15px", fontWeight: "300" }}>
               <span style={{ color: "black", fontSize: "20px" }}>POLECANE</span>
-              <br />
+              <br /> Mama z sąsiedztwa czeka abyś u niej zagościł gdy męża nie
+              ma w domu!
             </a>
           </div>
         </a>
